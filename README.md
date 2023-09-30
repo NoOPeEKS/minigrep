@@ -1,5 +1,5 @@
-# Per executar la comanda:
-`cargo run -- word file_path`
-
-# Per crear el binari executable:
+# Per compilar el binari executable:
 `cargo build --release`
+
+# Per executar el programa:
+`minigrep query_word file_path`
